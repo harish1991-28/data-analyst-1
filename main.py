@@ -1,3 +1,4 @@
 name = str(input("enter your name: "))
 age,gender = 23,"M"
 print(f"Hello, welcome {name} your age is {age} and your gender is {gender} all the best")
+print("Done")
